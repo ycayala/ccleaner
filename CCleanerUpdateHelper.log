@@ -1,0 +1,12 @@
+13:01:49 [INFO] CCleaner info:
+version: 5.89.9401
+edition: Free
+portable: false
+CCleaner.ini: false
+13:01:49 [ERROR] [6] Couldn't resolve host name (Could not resolve host: shepherd.ff.avast.com)
+13:01:49 [INFO] Falling back to the default configuration targeting 5.90
+13:01:49 [INFO] Checking registry key HKEY_CURRENT_USER\SOFTWARE\Piriform\CCleaner\UpdateBackground
+13:01:49 [INFO] Registry value: "1"
+13:01:49 [INFO] Starting update
+13:01:49 [ERROR] [6] Couldn't resolve host name (Could not resolve host: download.ccleaner.com)
+13:01:49 [INFO] C:\Program Files\CCleaner\ccleaner_update_helper.exe will be deleted on the next restart.
